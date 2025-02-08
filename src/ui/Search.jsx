@@ -7,7 +7,7 @@ const SearchContainer = styled.div`
   background-color: #f1f1f1; /* Light grey background */
   padding: 8px 12px;
   border-radius: 8px;
-  width: 300px; /* Adjust width as needed */
+  width: 400px; /* Adjust width as needed */ //changed with from 300 to 400
   position: relative;
 `;
 
