@@ -1,5 +1,9 @@
+import WeeklyScheduleContents from "../ui/WeeklyScheduleContents";
+
 function WeeklySchedule() {
-  return <div></div>;
+  return <div>
+    <WeeklyScheduleContents />
+  </div>;
 }
 
 export default WeeklySchedule;
