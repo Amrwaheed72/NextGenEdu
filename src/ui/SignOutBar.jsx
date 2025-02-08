@@ -11,7 +11,7 @@ const Div = styled.div`
   justify-content: space-between;
   gap: 20px;
   margin-left: auto;
-  margin-right: 200px;
+  margin-right: 400px; //changed margin from 300 to 400 
   position: relative;
 `;
 const Text = styled.h4`
